@@ -1,0 +1,11 @@
+{
+    "exclusion_paths": [
+        "C:\\Users\\%s\\Desktop",
+        "C:\\Users",
+        "C:\\Windows",
+        "C:\\Program Files",
+        "C:\\Program Files (x86)",
+        "C:\\Recovery",
+        "C:\\terarium"
+    ]
+}
